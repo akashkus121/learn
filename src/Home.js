@@ -35,7 +35,7 @@ const Home = () => {
                 
                   <div className="mt-3">
                     <Link to="/service" className="btn-get-started">
-                      get started
+                      Get started
                     </Link>
                   </div>
                 </div>

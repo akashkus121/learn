@@ -5,8 +5,7 @@ const Sdata=[
         websites: [
             {
                 key:1,
-        imgsrc:"https://campus.w3schools.com/cdn/shop/products/FB_frontend_img_1080x720_31e46a9e-e124-4db2-8978-2084704e0c75_512x342.png?v=1681910497",
-        title:"W3 Schools",
+        imgsrc:"https://media.licdn.com/dms/image/D5612AQHdPlX2l2HXNA/article-cover_image-shrink_600_2000/0/1699401234451?e=2147483647&v=beta&t=kpOW6GAlGEueIYZx-lavKDFFtzPG0BpcfLPGzXfYw6k",
         sname:"LearnHub",
         link:"https://www.w3schools.com/",
         },
@@ -88,7 +87,7 @@ const Sdata=[
                 },
                 {
                     key:12,
-                    imgsrc:"https://trak.in/wp-content/uploads/2022/06/Untitled-design-4-1-1280x720-1024x576.jpeg",
+                    imgsrc:"https://wallpapercave.com/dwp1x/wp9715882.jpg",
                     title:"Hotstar",
                     sname:"Entertainment",
                     link:"https://www.hotstar.com/in/home?ref=%2Fin",
