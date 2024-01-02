@@ -5,26 +5,35 @@ const Sdata=[
         websites: [
             {
                 key:1,
-        imgsrc:"https://media.licdn.com/dms/image/D5612AQHdPlX2l2HXNA/article-cover_image-shrink_600_2000/0/1699401234451?e=2147483647&v=beta&t=kpOW6GAlGEueIYZx-lavKDFFtzPG0BpcfLPGzXfYw6k",
+        imgsrc:"https://lh3.googleusercontent.com/_axBDN8aKOieaLCs9VdKSdr1-MGWkrZQGazYBMLaLLazyliubH2DUAfd72eoYzD0MDQ=w512",
+         title:"w3Schools",
         sname:"LearnHub",
         link:"https://www.w3schools.com/",
         },
         {
            key:2,
-        imgsrc:"https://media.licdn.com/dms/image/D4D12AQHFNRDblsU1xQ/article-cover_image-shrink_600_2000/0/1677528528545?e=2147483647&v=beta&t=4m_zBymL0oPBiZ2FXqP66zoUzoAza5GkNdUOyM_nWGc",
+        imgsrc:"https://d3l9a8mvoa6cl8.cloudfront.net/wp-content/uploads/sites/3/2022/07/23203406/How-Does-Coursera-Work.jpg",
         title:"Coursera",
         sname:"LearnHub",
         link:"https://www.coursera.org/",
     },
     {
          key:3,
-        imgsrc:"https://instructor-academy.onlinecoursehost.com/content/images/2023/05/61_Best-Udemy-Alternatives-For-Instructors-ONLINE-COURSE-MARKETPLACES.jpg",
+        imgsrc:"https://img-b.udemycdn.com/course/750x422/4077322_a979_4.jpg",
         title:"Udemy",
         sname:"LearnHub",
         link:"https://www.udemy.com/"  ,
         },
         {
-             key:4,
+            key:4,
+            imgsrc:"https://8f430952.rocketcdn.me/wp-content/uploads/2021/07/edX-sold-MIT-and-Harvard.jpg",
+             title:"EDX",
+             sname:"LearnHub",
+             link:"https://www.edx.org/",
+
+        },
+        {
+             key:5,
             imgsrc:"https://talkstar-photos.s3.amazonaws.com/uploads/be6aba2a-9447-45e7-bdf3-ef087f455963/MollyWright_2021-embed.jpg",
             title:"TedEd",
             sname:"LearnHub",
@@ -65,6 +74,13 @@ const Sdata=[
             sname:"DailyDose",
             link:"https://edition.cnn.com/",
         },
+        {
+            key:10,
+            imgsrc:"https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg",
+            title:"NDTV",
+            sname:"DailyDose",
+            link:"https://www.ndtv.com/",
+        },
         ],
     },
         {
@@ -87,6 +103,13 @@ const Sdata=[
                 },
                 {
                     key:12,
+                    imgsrc:"https://www.medianews4u.com/wp-content/uploads/2023/11/ZEE5-brightens-this-Diwali-with-Manoranjan-Festival-and-special-discount-offers-on-premium-subscriptions-.jpg",
+                    title:"Zee5",
+                    sname:"Entertainment",
+                    link:"https://www.zee5.com/",
+                },
+                {
+                    key:12,
                     imgsrc:"https://wallpapercave.com/dwp1x/wp9715882.jpg",
                     title:"Hotstar",
                     sname:"Entertainment",
@@ -99,6 +122,13 @@ const Sdata=[
                     sname:"Entertaiment",
                     link:"https://www.sonyliv.com/",
                 },
+                {
+                    key:15,
+                    imgsrc:"https://etimg.etb2bimg.com/photo/88723582.cms",
+                    title:"HBOmax",
+                    sname:"Entertaiment",
+                    link:"https://www.hbomax.com/geo-availability"
+                }
                 
             ],
         },
