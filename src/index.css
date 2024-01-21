@@ -13,20 +13,16 @@
 
 }
 .navbar-brand{
-    font-size: 1.9rem !important;
-    color: rgb(3, 2, 8) !important;
-    font-weight: bolder;
+    font-size: 1rem !important;
+    color: #030208 !important;
+    font-weight: bold;
 
 }
 .navbar-nav{
     margin-left: auto;
 }
-
-
-
-
 .navbar a{
-    font-size: 1.7rem;
+    font-size: 1 rem;
     text-transform: capitalize;
 }
 .menu_active{
@@ -39,7 +35,7 @@
 }
 @media(max-width:991px){
     .navbar-brand{
-        font-size: 1.5rem !important;
+        font-size: 1rem !important;
     }
     .menu_active{
         font-weight: bold;
@@ -67,14 +63,14 @@
 }
 #header .btn-get-started{
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 1px;
     display: inline-block;
     padding: 10px 30px;
     border-radius: 50px;
     transition: 0.5s;
     color: rgb(255, 25, 0);
-    border: 2px solid #db3c34;
+    border: 1px solid #db3c34;
     text-decoration: none;
 }
 #header .btn-get-started:hover{
@@ -86,17 +82,7 @@
     border-radius: 50%;
 }
 
-.clockdate-wrapper {
-   
-    padding:5px;
-    max-width:350px;
-    width:100%;
-    text-align:center;
-    border-radius:5px;
-    margin-left: auto;
 
-  
-}
 .navbarSupportedContent{
     margin-left: auto;
 }
@@ -122,7 +108,23 @@
     transition: 0.5s;
   
   }
- 
+  /* YourStylesheet.css */
+
+.clockdate-wrapper {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px;
+        display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-weight: bold;
+  }
+  
+  .clockdate-wrapper p {
+    margin: 0; /* Remove default margin */
+  }
+  
   
   
 

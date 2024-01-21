@@ -47,6 +47,7 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <br></br>
       <div className="clockdate-wrapper">
         <p>
             Time: {currentTime.toLocaleTimeString()} | Date: {currentTime.toLocaleDateString()}
