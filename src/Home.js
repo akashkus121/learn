@@ -28,7 +28,7 @@ const Home = () => {
               <div className="row">
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
-                    Welcome to LearnNewsShopHub</h1>
+                    Welcome to ExploreFavs</h1>
                     <h2>
                       Discover a world of knowledge, stay up-to-date with the latest news, and explore exciting shopping opportunities - all in one place!
                     </h2>
